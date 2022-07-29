@@ -2,12 +2,12 @@
 
 ![](https://github.com/areemak/areemak/blob/main/images/ic_profile.png?raw=true)
 
-# AREEMAK <span style="color: #dfdfdf;font-size: 1.2rem">DirectCloudLab</span>
+# AREEMAK
 
 <div align="left">
 
 ### 📋 Stat
-```java
+```javascript
 const birthday = '1984-12-07'
 const gender = 'Male'
 const MBTI = 'INFJ'
