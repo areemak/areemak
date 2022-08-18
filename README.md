@@ -7,6 +7,7 @@
 <div align="left">
 
 ### 📋 Stat
+
 ```javascript
 const birthday = '1984-12-07'
 const gender = 'Male'
@@ -31,8 +32,12 @@ const currentRole = 'Mobile and FrontEnd Developer'
 
 <div id="stat">
 
+### 📔 blog
+
+[https://areema.tistory.com](https://areema.tistory.com)
 
 ### 💻 Tech Stack
+
 |DEV|Level|Detail|
 |-:|:-:|:-:|
 |Android|![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)|Java, Kotlin, Jetpack|
@@ -46,6 +51,7 @@ const currentRole = 'Mobile and FrontEnd Developer'
 
 
 ### 🛠 Projects
+
 |Project|Role|
 |-:|:-:|
 |[쿨메신저 젠투](https://play.google.com/store/apps/details?id=kr.jiransoft.coolmessenger)|Android|
