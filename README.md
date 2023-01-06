@@ -40,7 +40,7 @@ const currentRole = 'Mobile and FrontEnd Developer'
 
 |DEV|Level|Detail|
 |-:|:-:|:-:|
-|Android|![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)|Java, Kotlin, Jetpack|
+|Android|![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)|Java, Kotlin, Jetpack Compose|
 |iOS|![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)|Objective-C, Swift|
 |ReactNative|![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)|JavaScript, TypeScript, React Query, Redux|
 |Flutter|![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)|Dart, GetX|
